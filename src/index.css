@@ -80,14 +80,14 @@ select {
 :root {
   --color-background-dark: rgb(163, 239, 235);
   --color-background-light: rgb(245, 134, 251);
-  --color-text: rgb(41, 41, 41);
-  --color-nav-text: rgb(32, 31, 31);
+  --color-text: rgb(88, 88, 88);
+  --color-nav-text: rgb(88, 88, 88);
   --color-nav-text-hover: rgb(255, 255, 255);
 }
 
 body {
   color: var(--color-text);
-  font-family: Segoe UI;
+  font-family: Balsamiq Sans;
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 1.5;

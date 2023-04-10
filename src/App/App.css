@@ -64,6 +64,10 @@
   padding: 1rem 0;
 }
 
+.social-hover {
+  font-size: 1.2em;
+}
+
 .social-section {
   position: fixed;
   bottom: 25%;
